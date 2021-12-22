@@ -6,4 +6,6 @@ In dieser Aufgabe beschäftigst du dich mit der Verwendung von Enums. Dafür ver
 
 ## Lernvideos zum Thema
 
-- [Lernvideo zu Enums](https://elearning.uni-regensburg.de/mod/url/view.php?id=2008997)
+<iframe width="420" height="315"
+src="https://www.youtube-nocookie.com/embed/tWkjFVziE3c">
+</iframe> 
