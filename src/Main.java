@@ -1,8 +1,7 @@
 public class Main {
 
-    /*
-        Erstelle hier eine neue Instanz von Dog.
-     */
     public static void main(String[] args) {
+        Dog dog = new Dog("Rex", Breed.GERMAN_SHEPHERD, 5);
+        dog.bark();
     }
 }
